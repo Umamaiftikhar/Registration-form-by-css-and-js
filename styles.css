@@ -1,0 +1,13 @@
+.box{
+    border: white 1px black;
+    width: 460px;
+    height:460px;
+    padding: 20px;
+    background-color: pink;
+}
+.container{
+    border: 1px #9FB4FF solid;
+    background-color: #9FB4FF;
+    margin: 10px;
+    height: 330px;
+}
